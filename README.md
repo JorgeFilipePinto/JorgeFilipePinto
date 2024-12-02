@@ -3,7 +3,7 @@
 My name is Jorge Pinto, I have 29 years old and I'm Student of Engenharia Informática e Telecomunicações.
 I consider myself a very hard working person. 
 I love to participate in team projects and always strive my self to contribute in the best way.
-I enjoy learning some new, I make a loot of courses in [Codecademy](https://www.codecademy.com/profiles/blog4375572818) click ok Link and check my profile.
+I enjoy learning some new, I make a loot of courses in [Codecademy](https://www.codecademy.com/profiles/blog4375572818) please click on the Link and check my profile.
 I am mainly interested in programming projects.
 
 I speak:
