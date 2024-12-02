@@ -4,6 +4,11 @@ My name is Jorge Pinto, I have 29 years old and I'm Student of Engenharia Inform
 I consider myself a very hard working person. 
 I loveto participate in team projects and always strivemyself to contribute in the best way. 
 I am mainlyinterested in programming projects.
+I speak:
+- Portuguese (Native)
+- English B1 (but I am in formation constantly)
+- Deutsh (I started in this year (2024)
+- Spanish (a little, I was in Spain during two years)
 
 # My Skills
 - Programming
@@ -19,6 +24,12 @@ I am mainlyinterested in programming projects.
 - Assembly
 - Swift
 - SwiftUI
+
+## I will learn
+- React
+- JavaScript
+- Kotlin
+
 
 # Soft Skills
 - Determination
