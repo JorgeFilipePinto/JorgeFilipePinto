@@ -37,6 +37,11 @@ I speak:
 - Organization
 - Team Work
 
+
+More Information:
+- 🔭 I’m currently search work
+- 🌱 I’m currently learning IOS Development
+- 💬 Ask me about microcontroller projects, such as LoRa P2P, ESP32 and some programing languages
 <!--
 **JorgeFilipePinto/JorgeFilipePinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
