@@ -24,15 +24,14 @@ I speak:
 - C++
 - C
 - Assembly
-# # Programming Languages in study
-- Swift
-- SwiftUI
+
+## In study at the moment
+- Swift and Framwork SwiftUI
 
 ## I will learn
 - React
 - JavaScript
 - Kotlin
-
 
 # Soft Skills
 - Determination
