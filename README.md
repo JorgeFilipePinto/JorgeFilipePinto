@@ -24,14 +24,24 @@ I speak:
 - C++
 - C
 - Assembly
+- Swift/SwiftUI
+
+# Web
+- Html5
+- CSS
 
 ## In study at the moment
-- Swift and Framwork SwiftUI
+- Swift and Framework SwiftUI
 
 ## I will learn
 - React
 - JavaScript
 - Kotlin
+
+# Operating Systems
+- Linux(Ubuntu, Debian)
+- MacOS
+- Windows
 
 # Soft Skills
 - Determination
@@ -44,6 +54,8 @@ I speak:
 - 🔭 I’m currently search work
 - 🌱 I’m currently learning IOS Development
 - 💬 Ask me about microcontroller projects, such as LoRa P2P, ESP32 and some programing languages
+
+
 <!--
 **JorgeFilipePinto/JorgeFilipePinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
