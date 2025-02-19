@@ -39,7 +39,7 @@ I speak:
 - Kotlin
 
 # Operating Systems
-- Linux(Ubuntu, Debian)
+- Linux (Ubuntu, Debian)
 - MacOS
 - Windows
 
