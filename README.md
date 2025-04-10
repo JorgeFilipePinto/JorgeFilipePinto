@@ -18,7 +18,7 @@ I speak:
 - System Debugging
 
 
-# Programming Languages
+# Programming Languages And Frameworks
 - Python
 - Java
 - C++
