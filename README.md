@@ -1,6 +1,6 @@
 ## Hi there 👋
 # About me
-My name is Jorge Pinto, I have 29 years old and I'm Student of Engenharia Informática e Telecomunicações.
+My name is Jorge Pinto, I have 30 years old and I'm Software Developer Programming. I completed my Degree in Computer and Telecommunications Engineering in 06/2025 with grade 15.
 I consider myself a very hard working person. 
 I love to participate in team projects and always strive my self to contribute in the best way.
 I enjoy learning some new, I make a loot of courses in [Codecademy](https://www.codecademy.com/profiles/blog4375572818) please click on the Link and check my profile.
@@ -29,13 +29,13 @@ I speak:
 # Web
 - Html5
 - CSS
+- JS
 
 ## In study at the moment
 - Swift and Framework SwiftUI
 
 ## I will learn
 - React
-- JavaScript
 - Kotlin
 
 # Operating Systems
