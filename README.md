@@ -23,8 +23,10 @@ I speak:
 - Java
 - C++
 - C
+- C#
 - Assembly
-- Swift/SwiftUI
+- Swift
+- SwiftUI
 
 # Web
 - Html5
@@ -33,6 +35,7 @@ I speak:
 
 ## In study at the moment
 - Swift and Framework SwiftUI
+- C# to build APIs
 
 ## I will learn
 - React
