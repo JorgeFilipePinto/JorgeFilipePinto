@@ -36,9 +36,9 @@ I speak:
 ## In study at the moment
 - Swift and Framework SwiftUI
 - C# to build APIs
+- React
 
 ## I will learn
-- React
 - Kotlin
 
 # Operating Systems
